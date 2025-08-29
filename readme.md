@@ -7,8 +7,8 @@ This project demonstrates **clean architecture**, **REST APIs**, **database pers
 
 ## Features
 
-- **CRUD Operations** for Todos
-- **Validation** for Todo fields
+- **CRUD Operations** for Task Management
+- **Validation** for Task Management fields
 - **Global Exception Handling**
 - **Pagination & Sorting**
 - **Database Migrations** using Liquibase
