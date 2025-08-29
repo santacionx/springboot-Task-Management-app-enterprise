@@ -1,6 +1,6 @@
-# Spring Boot Todo App - Enterprise Ready
+# Spring Boot Todo App - Enterprise 
 
-A **Todo application** built with **Spring Boot, PostgreSQL, Liquibase, and Docker**.  
+A **Task Management application** built with **Spring Boot, PostgreSQL, Liquibase, and Docker**.  
 This project demonstrates **clean architecture**, **REST APIs**, **database persistence**, **validation**, **exception handling**, **pagination**, and **sorting** – all skills required for enterprise-grade applications.
 
 ---
