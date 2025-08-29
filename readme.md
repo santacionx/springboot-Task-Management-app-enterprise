@@ -29,10 +29,4 @@ This project demonstrates **clean architecture**, **REST APIs**, **database pers
 
 ---
 
-## Getting Started
 
-### Clone Repository
-
-```bash
-git clone https://github.com/<your-username>/springboot-todo-app-enterprise.git
-cd springboot-todo-app-enterprise
